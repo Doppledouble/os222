@@ -5,16 +5,17 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
+[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL]({{ site.tarballlink }}) ---
+[TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.name }}.
+This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
 This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }}
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
