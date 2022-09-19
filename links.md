@@ -16,10 +16,8 @@ permalink: LINKS/
 
 1. [Gary Explains](https://youtu.be/CpTfQ-q6MPU)<br>
 This is one of my recently watched video recommended by Mr.RMS, which is in my opinion, is very helpful for students who is very new to Linux and its basic commands. His explanations is well served and easy to comprehend.
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Cyber Security In 7 Minutes](https://youtu.be/inWWhr5tnEA)<br>
+This video introduce a meaning behind Cyber Security. It does explain it in a quite short time but share some concrete examples that people can understand it very easily, also a very insightful video for the audience. 
 
 3. [Three](https://en.wikipedia.org/wiki/3)<br>
 Liquorice bonbon lemon drops marshmallow.
