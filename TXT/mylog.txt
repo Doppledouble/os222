@@ -34,4 +34,12 @@ ZCZC W04 20 L05 Quiz related
 ZCZC W04 80 L06 Browsing related
 ZCZC W04 200 L08 OS chat related with AsDos and Friends
 ZCZC W04 120 L32 Youtube: watching OS related topics
-
+ZCZC W05 40 L01 Scele related
+ZCZC W05 120 L02 ZOOM meetings related
+ZCZC W05 10 L03 Github related
+ZCZC W05 30 L04 Github pages related
+ZCZC W05 10 L05 Quiz related
+ZCZC W05 80 L06 Browsing related
+ZCZC W05 200 L08 OS chat related with friends
+ZCZC W05 30 L27 SSH related
+ZCZC W05 360 L70 other subjects assignments related

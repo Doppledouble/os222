@@ -28,6 +28,9 @@ This is one of the best video because indian people always explain everything be
 5. [File System Internals](https://youtu.be/fyacGDXpi-Q)<br>
 This video actually refers to the same book which Mr.RMS gave to us. Even though the duration of this video is quite long, but because of its explanation, it makes everything on the particular chapter become clearer.
 
+6. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+This is my favourite website to learn coding and technology related topics such as Virtual memory definition in Operating System.
+
 
 
 
