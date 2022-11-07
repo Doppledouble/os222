@@ -31,6 +31,9 @@ This video actually refers to the same book which Mr.RMS gave to us. Even though
 6. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 This is my favourite website to learn coding and technology related topics such as Virtual memory definition in Operating System.
 
+7. [Multicore Programming](https://youtu.be/dx98pqJvZVk)
+This is an Open Source video that is published by MIT and the explanation is well elaborated. 
+
 
 
 
