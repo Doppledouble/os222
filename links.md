@@ -34,7 +34,8 @@ This is my favourite website to learn coding and technology related topics such 
 7. [Multicore Programming](https://youtu.be/dx98pqJvZVk)
 This is an Open Source video that is published by MIT and the explanation is well elaborated. 
 
-
+8. [Process Synchronization](https://youtu.be/ph2awKa8r5Y)
+A Famous channel that describe synchronization process in a brief way.
 
 
 <br>
