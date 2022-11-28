@@ -40,7 +40,8 @@ A Famous channel that describe synchronization process in a brief way.
 9. [Linux from scratch](https://youtu.be/1eOdaXS-wVE)
 simply reflects how i feel about this week assignment.
 
-
+10. [another linux from scratch channel](https://youtu.be/zzxqYGHcL2c)
+this channel teaches each step for creating linux from scratch.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

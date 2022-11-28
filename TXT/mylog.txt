@@ -61,3 +61,9 @@ ZCZC W08 10 L04 Github pages related
 ZCZC W08 50 L06 Browsing related
 ZCZC W08 20 L08 OS chat related with a friend
 ZCZC W08 30 L32 Youtube: watching OS related topics video
+ZCZC W09 50 L01 Scele related
+ZCZC W09 20 L03 Github related
+ZCZC W09 10 L04 Github pages related
+ZCZC W09 120 L06 Browsing related
+ZCZC W09 70 L08 OS chat and calls related with a friend
+ZCZC W09 120 L32 Youtube: watching OS related topic
